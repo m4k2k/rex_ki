@@ -1,6 +1,6 @@
 {
   "name": "T'Rex and Kinect",
   "tagline": "",
-  "body": "\r\n\r\nthis is a test\r\n\r\n\r\n![(robot picture)](https://m4k2k.github.io/rex_kinect/images/trx_knc.jpg)\r\n\r\nshorted URL for sharing\r\nhttps://git.io/vKVt2",
+  "body": "### General Description\r\n\r\nThis project is part of a bachelors dissertation.\r\n\r\nThe goal was to demonstrate the new capabilities of the Kinect v2 Sensor in combination with a robot. As an outcome the robot was controllable through gestures.\r\n\r\n[More information coming soon..]\r\n\r\n\r\n![(robot picture)](https://m4k2k.github.io/rex_kinect/images/trx_knc.jpg)\r\n\r\n\r\n### Related Websites:\r\n\r\nShort Website URL:\r\n<https://git.io/vKVt2>\r\n\r\nWebsite URL:\r\n<http://m4k2k.github.io/rex_kinect>\r\n\r\nYouTube Video URL:\r\ncoming soon..\r\n\r\nRepository URL:\r\n<https://github.com/m4k2k/rex_kinect>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
